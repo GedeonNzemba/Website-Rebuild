@@ -1,4 +1,4 @@
-# project-2
+# project
 This is a project made to rebuild and try to get to the original 'Jon Chretien website'. It should be excatly the same.
 here is the original website: jonchretien.com
 
